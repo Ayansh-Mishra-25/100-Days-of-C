@@ -25,7 +25,8 @@ int main()
     sum= sum+i;
   }
   printf("Sum=%d", sum);
-  }
+  return 0;
+}
 /*
 D:\100days>gcc program2_day4.c -o program2_day4.out
 
